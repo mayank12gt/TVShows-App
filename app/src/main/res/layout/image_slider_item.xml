@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:bind="http://schemas.android.com/apk/res-auto">
+
+    <data>
+        <variable
+            name="imageUrl"
+            type="String" />
+        <import type="android.view.View"/>
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            bind:imageURL="@{imageUrl}"
+            android:scaleType="centerCrop"
+            android:adjustViewBounds="true"/>
+
+
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</layout>
