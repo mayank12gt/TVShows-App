@@ -1,14 +1,20 @@
-# TVShows-App
+# About
 Android app which shows popular TV Shows and their details with search and watchlist functionality.<br />
-Features:<br />
-     1.View popular TV Shows and their details<br />
-     2.Add TV Shows to watch list<br />
-     3.Search for TV Shows<br />
-     4.MVMM architecture pattern<br />
-     5.Room database library to implement watch-list<br />
+## Features:
+1.View popular TV Shows and their details<br />
+2.Add TV Shows to watch list<br />
+3.Search for TV Shows<br />
+4.MVMM architecture pattern<br />
+5.Room database library to implement watch-list<br />
 
-Screenshots:
+## Screenshots:
+### Main & Details Screen
+![WhatsApp Image 2024-07-19 at 11 43 29 AM-imageonline co-merged](https://github.com/user-attachments/assets/e3d4b1e4-23d3-4972-a4e2-3d6a0db75781)
 
+### Search & Watchlist Screen
+![WhatsApp Image 2024-07-19 at 11 43 30 AM-imageonline co-merged](https://github.com/user-attachments/assets/ae0a70d3-fea6-4f7e-9f9c-bca2180d71f7)
+
+### All
 ![WhatsApp Image 2023-04-12 at 8 47 31 PM](https://user-images.githubusercontent.com/96809211/231506392-4b8b8897-6246-463a-8168-46fc35f5561b.jpeg)
 ![WhatsApp Image 2023-04-12 at 8 48 05 PM](https://user-images.githubusercontent.com/96809211/231506598-69f8fad7-b48e-497c-b83f-0f1cd82f375d.jpeg)
 ![WhatsApp Image 2023-04-12 at 8 48 49 PM](https://user-images.githubusercontent.com/96809211/231506704-7f7c65d3-5fb3-4cbe-8fe2-5ea220e597f0.jpeg)
